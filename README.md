@@ -1,4 +1,5 @@
-#
+# deno-adp
+A Deno library for the Dossier API.
 
 ## Links
 
