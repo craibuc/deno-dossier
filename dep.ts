@@ -1,0 +1,1 @@
+export { Dossier } from 'https://raw.githubusercontent.com/craibuc/deno-dossier/main/mod.ts'
